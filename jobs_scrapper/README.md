@@ -1,6 +1,6 @@
 # JOB SCRAPPER
 
-This is a code to collect data job from Website:https://itviec.com/viec-lam-it
+This is a code to collect data of jobs from Website:https://itviec.com/viec-lam-it
 
 # HOW TO DO
 
